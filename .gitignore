@@ -1,0 +1,15 @@
+I2C.cache/
+I2C.hw/
+I2C.ip_user_files/
+I2C.runs/
+I2C.gen/
+I2C.sim/
+I2C.gen/sources_1/bd/i2c_temp_bd/sim/
+I2C.gen/sources_1/bd/i2c_temp_bd/synth/
+*.log
+*.jou
+*.str
+*.xml
+*.bda
+*.bxml
+*.ui
